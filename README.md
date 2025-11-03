@@ -4,7 +4,6 @@
 <h2 align="center">Hi, I'm Vidit Khairkar 👋</h2>
 <h3 align="center">AI Engineer | Model Fine-Tuning | Agentic AI | Automation Architect</h3>
 
-
 <p align="center">
   <img src="assets/animated-figure.gif" alt="Animated Developer Figure" width="280"/>
 </p>
