@@ -16,15 +16,15 @@
 ## 🏆 GitHub Stats & Activity
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vidit-arca&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit-arca&layout=compact&theme=gruvbox" alt="Top Languages"/>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=vidit-arca&style=flat-square" alt="Profile Views"/>
     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=10&theme=gruvbox" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vidit-arca&margin-w=10&theme=gruvbox" alt="Trophies"/>
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=gruvbox" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidit-arca&theme=gruvbox" alt="Activity Graph"/>
 </p>
 
 ---
