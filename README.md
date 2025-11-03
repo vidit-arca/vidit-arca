@@ -7,28 +7,31 @@
 ---
 
 ## 🚀 Specializing In
-- 🧠 Large Language Model Training & Fine-Tuning  
-- 🤖 Agentic AI Systems & Automation  
+- 🧠 Large Language Model Training & Fine-Tuning
+- 🤖 Agentic AI Systems & Automation
 - 🌐 End-to-End ML Applications
 
 ---
 
 ## 🏆 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox" alt="Top Languages" height="180" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=10&theme=gruvbox"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox" alt="Top Languages"/>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile Views"/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=10&theme=gruvbox" alt="Trophies"/>
+    <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=gruvbox" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 🦾 Technical Skills
 
-### Programming Languages & Tools  
+### Programming Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -36,7 +39,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI / ML Frameworks  
+### AI / ML Frameworks
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -49,11 +52,11 @@
 
 ## 🛠️ What I Do
 
-- 🔍 Fine-tune and deploy large language models for custom domains and medical document processing  
-- 🕸️ Build agentic AI systems with autonomous agents for complex automation and workflow tasks  
-- 🏥 Design and implement end-to-end ML and OCR pipelines for healthcare and real-world applications  
-- ☁️ Develop robust production ML solutions using cloud platforms (GCP, Vercel, etc.)  
-- 🧩 Active open source contributor – computer vision and NLP
+- 🔍 Fine-tune and deploy large language models for custom domains and medical document processing
+- 🕸️ Build agentic AI systems with autonomous agents for complex automation and workflow tasks
+- 🏥 Design and implement end-to-end ML and OCR pipelines for healthcare and real-world applications
+- ☁️ Develop robust production ML solutions using cloud platforms (GCP, Vercel, etc.)
+- 🧩 Open source contributor in computer vision & NLP
 
 ---
 
@@ -61,12 +64,13 @@
 
 <details>
   <summary>See My Top Projects</summary>
-  
-  - **Model Fine-Tuning Suite:** End-to-end tools for SFT, LoRA, and full-precision AI model training
-  - **Agentic AI Automation:** Scalable agentic pipelines for document processing, claims validation, healthcare automation
-  - **Image Forgery Detection Platform:** Segmentation/classification-based system with confidence analytics
-  - **Medical OCR System:** Multi-agent document parser with schema matching and structured data extraction
-  - **TrueClaim Automation:** Policy validation and insurance claim fraud detection for healthcare systems
+  <ul>
+    <li><b>Model Fine-Tuning Suite:</b> End-to-end tools for SFT, LoRA, and full-precision AI model training</li>
+    <li><b>Agentic AI Automation:</b> Scalable agentic pipelines for document processing, claims validation, healthcare automation</li>
+    <li><b>Image Forgery Detection Platform:</b> Segmentation/classification-based system with confidence analytics</li>
+    <li><b>Medical OCR System:</b> Multi-agent document parser with schema matching and structured data extraction</li>
+    <li><b>TrueClaim Automation:</b> Policy validation and insurance claim fraud detection for healthcare systems</li>
+  </ul>
 </details>
 
 ---
@@ -83,22 +87,26 @@
 
 ## 🎯 Goals & Aspirations
 
-- **Short-term:** Advance agentic AI systems & model fine-tuning  
-- **Medium-term:** Architect scalable ML/AI pipelines for real-world impact  
-- **Long-term:** Lead teams delivering intelligent automation and data-driven transformation  
+- **Short-term:** Advance agentic AI systems & model fine-tuning
+- **Medium-term:** Architect scalable ML/AI pipelines for real-world impact
+- **Long-term:** Lead teams delivering intelligent automation and data-driven transformation
 
 ---
 
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-  <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- Add custom GIFs, emojis, and collapsible sections for extra flair -->
-<!-- Use profile generators for more features: githubprofile.com, gprm.itsvg.in -->
-
+<!-- Try githubprofile.com or gprm.itsvg.in for more advanced features! -->
